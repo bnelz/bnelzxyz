@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'bnelz.xyz readme'
 theme = 'terminal'
 
 baseurl = "/"
@@ -60,8 +60,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "bnelz.xyz"
+    subtitle = "A cool homepage on line"
     owner = ""
     keywords = ""
     copyright = ""
