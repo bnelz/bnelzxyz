@@ -80,4 +80,6 @@ I live in the Portland, Oregon area with my partner Ella and love the West coast
 On a given day after work you can find me on the pickleball court, in the gym, or out to eat at one of Portland's great restaurants with Ella.
 Weekends are for hobby projects and longer form gaming sessions solo or with friends.
 
+Hit me up on Discord if you want to play something! My username is lof1.
+
 {{< image src="/images/pickleball.jpeg" alt="Brandon and Ella pickleball champs" position="center" style="border-radius: 8px;" >}}
